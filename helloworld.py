@@ -1,6 +1,6 @@
 '''
 Created on Mar 3, 2014
-Copyright 2014-2015 Dario Bonino 
+Copyright 2014-2015 Dario Bonino and Luigi De Russis
  
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -14,14 +14,14 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License
 
-@author: bonino
+@author: bonino, derussis
 '''
 
 if __name__ == '__main__':
-    print('Hello World!')
-    print(13+22)
+    print 'Hello World!'
+    print 13+22
     
     # my first comment
     # my second comment
     
-    print('after comments')
+    print 'after comments'
